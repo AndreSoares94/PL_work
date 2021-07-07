@@ -7,3 +7,10 @@ Both projects were made using the Linux OS.
 First Subject: text filter using Flex and regular expressions that have to process an HTML page creating a JSON file with the relevant information
 
 Second Subject: creation of a Domain-Specific Language that defines the 'caderno' template and validation using YACC and Flex. In the end an HTML page is created with the info processed.
+
+## Who made this?
+[Tifany Silva](https://github.com/Sarah250)
+
+[André Soares](https://github.com/AndreSoares94)
+
+[Guilherme Martins](https://github.com/GuiM117)
